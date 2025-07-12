@@ -1,5 +1,5 @@
 
-# Simulasi Manajemen Stres Mahasiswa 🧠📚
+# Simulasi Manajemen Stres Mahasiswa 
 
 ## Deskripsi Proyek
 Program ini merupakan simulasi manajemen waktu dan stres mahasiswa selama 7 hari. Pengguna memasukkan data harian berupa:
@@ -57,16 +57,10 @@ Skor Produktivitas   : 16
 Total Tingkat Stres: 12
 Total Produktivitas: 98
 Minggu yang seimbang. Pertahankan kebiasaan baikmu.
-```
 
----
 
-## Teknologi yang Digunakan
+
 - Bahasa Pemrograman: **Java**
 - IDE: **NetBeans**
 - Input Terminal (Scanner)
 
----
-
-## Lisensi
-Proyek ini dibuat untuk tujuan pembelajaran dan simulasi akademik.
